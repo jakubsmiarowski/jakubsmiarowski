@@ -34,7 +34,7 @@
 
 <img align="left" alt="Jakub's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jakubsmiarowski&show_icons=true&hide_border=true" />
 
-[website]: https://hopeful-wright-efcc54.netlify.app/
+[website]: https://www.kubasmiarowski.com
 [facebook]: https://www.facebook.com/jakub.smiarowski/
 [linkedin]: https://www.linkedin.com/in/jakub-%C5%9Bmiarowski-779371104/
 [mail]: mailto:jakub.smiarowski@gmail.com
