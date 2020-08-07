@@ -1,6 +1,6 @@
 ### Hi there, my name is Kuba and this is my [website] 👋
 
-## I'm a Future Developer, Developer, and Teacher!
+## I'm a Future Developer, Kitesurfer and Globtrotter!
 
 - 🌱 I’m currently studying everything about JavaScript🤣
 - 👯 I’m looking to learn about Web Development from experienced Devs
