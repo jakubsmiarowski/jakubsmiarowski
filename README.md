@@ -1,15 +1,14 @@
-### Hi there, my name is Kuba and this is my [website] 👋
+### Hi there, my name is Kuba 👋
 
-## I'm a Future Developer, Kitesurfer and Globtrotter!
+## I'm a Frontend Developer, Kitesurfer and Globtrotter!
 
 - 🌱 I’m currently studying everything about JavaScript🤣
 - 👯 I’m looking to learn about Web Development from experienced Devs
-- 🥅 2020 Goal: Get a job as Junior in a challenging environment for a dynamic company that creates and develops well designed products.
+- 🥅 2021 Goal: Get as much experience as I can in blockchain crypto related topics. Next stop 2022 Blockchain Dev position!
 - ⚡ Fun fact: I'm a world class trip organizer
 
 ### Connect with me:
 
-[<img align="left" alt="Kuba" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Kuba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kuba | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Kuba | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][mail]
@@ -34,7 +33,6 @@
 
 <img align="left" alt="Jakub's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jakubsmiarowski&show_icons=true&hide_border=true" />
 
-[website]: https://www.kubasmiarowski.com
 [facebook]: https://www.facebook.com/jakub.smiarowski/
 [linkedin]: https://www.linkedin.com/in/jakub-%C5%9Bmiarowski-779371104/
 [mail]: mailto:jakub.smiarowski@gmail.com
