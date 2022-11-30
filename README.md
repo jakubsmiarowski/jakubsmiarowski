@@ -11,7 +11,6 @@
 [<img align="left" alt="Kuba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Kuba | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Kuba | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />][mail]
-[<img align="left" alt="Kuba | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/internetexplorer.svg" />][website]
 
 <br />
 
