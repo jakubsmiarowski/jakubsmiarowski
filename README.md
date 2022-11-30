@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently studying everything about JavaScript🤣
 - 👯 I’m looking to learn about Web Development from experienced Devs
-- 🥅 2021 Goal: Get as much experience as I can in blockchain crypto related topics. Next stop 2022 Blockchain Dev position!
 - ⚡ Fun fact: I'm a world class trip organizer
 
 ### Connect with me:
@@ -37,4 +36,4 @@
 [facebook]: https://www.facebook.com/jakub.smiarowski/
 [linkedin]: https://www.linkedin.com/in/jakub-%C5%9Bmiarowski-779371104/
 [mail]: mailto:jakub.smiarowski@gmail.com
-[website]: https://www.kubasmiarowski.com
+
