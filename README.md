@@ -1,9 +1,8 @@
 ### Hi there, my name is Kuba 👋
 
-## I'm a Frontend Developer, Kitesurfer and Globtrotter!
+## I'm a Fullstack Developer, Kitesurfer and Globtrotter!
 
-- 🌱 I’m currently studying everything about JavaScript🤣
-- 👯 I’m looking to learn about Web Development from experienced Devs
+- 👯 I want to keep learning with experienced Devs on exciting projects!
 - ⚡ Fun fact: I'm a world class trip organizer
 
 ### Connect with me:
